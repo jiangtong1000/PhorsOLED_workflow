@@ -1,4 +1,14 @@
-# Workflow for Phorsphorescent OLED Metal Complexe Molecules
+# PhorsOLED
+
+Automated photophysics calculations for phosphorescent OLED metal complexes. Repository started in 2022.
+
+## Related publication
+
+This workflow supported the computational analysis in:
+
+Z. Cheng, J. Liu, T. Jiang, M. Chen, F. Dai, Z. Gao, G. Ke, Z. Zhao, and Q. Ou. [Automatic screen-out of Ir(III) complex emitters by combined machine learning and computational analysis](https://doi.org/10.1002/adom.202301093). *Advanced Optical Materials* **11** (18), 2301093 (2023).
+
+## Usage
 
 - The workflow is supported by [dflow](https://github.com/deepmodeling/dflow), a Python framework for constructing scientific computing workflows.
 
